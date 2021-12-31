@@ -1,2 +1,2 @@
-# repo_template
-lorem ipsum
+# html
+I'm learning HTML, CSS, JavaScript
